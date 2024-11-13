@@ -1,0 +1,28 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-30 18:15:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-08-30 18:15:40 +0530",
+      "minecraft:ocean": "2024-08-30 18:16:18 +0530"
+    },
+    "done": false
+  },
+  "tutorialmod:recipes/misc/ruby_from_smelting_end_stone_ruby_ore": {
+    "criteria": {
+      "has_end_stone_ruby_ore": "2024-08-30 18:15:51 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_blasting_end_stone_ruby_ore": {
+    "criteria": {
+      "has_end_stone_ruby_ore": "2024-08-30 18:15:51 +0530"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
+}

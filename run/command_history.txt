@@ -1,0 +1,50 @@
+/time set day
+/gamemode spectator
+/gamemode survival
+/gamemode creative
+/time set day
+/wea
+/weather
+/weather clear
+/teleport @a forestbiome
+/locate biome minecraft:plains
+/teleport @a 509 94 -496
+/locate biome tutorialmod:test_biome
+/teleport @a 271 71 -166
+/home
+/home set
+/home return
+/locate biome tutorialmod:test_biome
+/teleport @a 370 71 362
+/home return
+/time set day
+/teleport @a 370 71 362
+/time set day
+/home return
+/time set day
+/locate structure str
+/locate structure minecraft:stronghold
+/teleport @a -32 ~ -1584
+/teleport @a overworld
+/locate biome tutorialmod:test_biome
+/time set day
+/locate biome minecraft:cherry_grove
+/teleport @a 9 71 1201
+/home return
+/home set
+/home return
+/locate biome tutorialmod:test_biome
+/teleport @a 704 64 -139
+/home return
+/time set day
+/locate biome che
+/locate biome minecraft:cherry_grove
+/teleport 11 71 1191
+/home return
+/home set
+/locate
+/locate structure str
+/locate structure minecraft:stronghold
+/teleport 976 ~ -1600
+/home return
+/time set day

@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "tutorialmod",
+	"version": "${version}",
+	"name": "Tutorial Mod",
+	"description": "This is a Tutorial Mod made by Kanad",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/tutorialmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.kanad.tutorialmod.TutorialMod"
+		],
+		"client": [
+			"net.kanad.tutorialmod.TutorialModClient"
+		],
+		"fabric-datagen": [
+			"net.kanad.tutorialmod.TutorialModDataGenerator"
+		],
+		"terrablender": [
+			"net.kanad.tutorialmod.world.biome.ModTerrablenderAPI"
+		]
+	},
+	"mixins": [
+		"tutorialmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

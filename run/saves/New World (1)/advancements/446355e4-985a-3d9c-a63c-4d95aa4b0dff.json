@@ -1,0 +1,173 @@
+{
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_smelting_nether_ruby_ore": {
+    "criteria": {
+      "has_nether_ruby_ore": "2024-09-03 18:11:36 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_smelting_ruby_ore": {
+    "criteria": {
+      "has_ruby_ore": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_blasting_nether_ruby_ore": {
+    "criteria": {
+      "has_nether_ruby_ore": "2024-09-03 18:11:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_smelting_raw_ruby": {
+    "criteria": {
+      "has_raw_ruby": "2024-09-03 18:13:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_blasting_ruby_ore": {
+    "criteria": {
+      "has_ruby_ore": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-09-03 18:19:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-09-03 18:10:40 +0530",
+      "minecraft:cherry_grove": "2024-09-03 18:19:23 +0530",
+      "minecraft:plains": "2024-09-03 18:10:52 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_blasting_raw_ruby": {
+    "criteria": {
+      "has_raw_ruby": "2024-09-03 18:13:28 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_smelting_deepslate_ruby_ore": {
+    "criteria": {
+      "has_deepslate_ruby_ore": "2024-09-03 18:12:35 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/building_blocks/ruby": {
+    "criteria": {
+      "has_ruby_block": "2024-09-03 18:13:05 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/raw_ruby": {
+    "criteria": {
+      "has_ruby": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_blasting_deepslate_ruby_ore": {
+    "criteria": {
+      "has_deepslate_ruby_ore": "2024-09-03 18:12:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-09-03 18:19:58 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/decorations/ruby_block": {
+    "criteria": {
+      "has_ruby": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-09-03 18:21:47 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_smelting_end_stone_ruby_ore": {
+    "criteria": {
+      "has_end_stone_ruby_ore": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_blasting_end_stone_ruby_ore": {
+    "criteria": {
+      "has_end_stone_ruby_ore": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-09-03 18:16:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-09-03 18:10:38 +0530"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
+}

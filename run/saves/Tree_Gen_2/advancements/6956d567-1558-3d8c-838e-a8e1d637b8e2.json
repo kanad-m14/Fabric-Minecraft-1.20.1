@@ -1,0 +1,108 @@
+{
+  "tutorialmod:recipes/misc/ruby_from_smelting_nether_ruby_ore": {
+    "criteria": {
+      "has_nether_ruby_ore": "2024-08-31 01:12:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-08-31 01:12:15 +0530"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-08-31 01:12:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-08-31 01:10:30 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_blasting_nether_ruby_ore": {
+    "criteria": {
+      "has_nether_ruby_ore": "2024-08-31 01:12:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-08-31 01:15:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-08-31 01:12:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-08-31 01:10:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-31 01:08:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-08-31 01:15:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-08-31 01:15:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-08-31 01:08:53 +0530",
+      "minecraft:ocean": "2024-08-31 01:09:18 +0530",
+      "minecraft:meadow": "2024-08-31 01:14:42 +0530",
+      "minecraft:dripstone_caves": "2024-08-31 01:14:34 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-08-31 01:10:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-08-31 01:15:14 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_smelting_end_stone_ruby_ore": {
+    "criteria": {
+      "has_end_stone_ruby_ore": "2024-08-31 01:08:52 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_blasting_end_stone_ruby_ore": {
+    "criteria": {
+      "has_end_stone_ruby_ore": "2024-08-31 01:08:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-08-31 01:15:23 +0530"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
+}

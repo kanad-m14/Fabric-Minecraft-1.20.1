@@ -1,0 +1,19 @@
+{
+	"required": true,
+	"package": "net.kanad.tutorialmod.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ModEntityDataSaver"
+	],
+	"client": [
+		"ExampleMixin"
+	],
+	"client": [
+		"ItemRendererAccessor",
+		"ItemRendererMixin",
+		"ModelLoaderMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

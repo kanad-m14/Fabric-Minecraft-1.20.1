@@ -1,0 +1,105 @@
+{
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_smelting_raw_ruby": {
+    "criteria": {
+      "has_raw_ruby": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-11-13 00:56:46 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_blasting_raw_ruby": {
+    "criteria": {
+      "has_raw_ruby": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_smelting_deepslate_ruby_ore": {
+    "criteria": {
+      "has_deepslate_ruby_ore": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/raw_ruby": {
+    "criteria": {
+      "has_ruby": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/ruby_from_blasting_deepslate_ruby_ore": {
+    "criteria": {
+      "has_deepslate_ruby_ore": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/decorations/ruby_block": {
+    "criteria": {
+      "has_ruby": "2024-11-13 00:56:45 +0530"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
+}

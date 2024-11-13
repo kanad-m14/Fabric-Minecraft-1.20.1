@@ -1,0 +1,2 @@
+v1	named	intermediary
+METHOD	net/kanad/tutorialmod/mixin/ModelLoaderMixin	(Lnet/minecraft/client/util/ModelIdentifier;)V	addModel	method_4727
